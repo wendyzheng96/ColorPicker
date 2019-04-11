@@ -4,7 +4,7 @@
 
 ### 效果图
 
-<img src="./screenshot/SVID_20190411_163454_1.gif" width="360px"/>
+<img src="./screenshot/SVID_20190411_163454_1.gif" width="240px"/>
 
 ### 实现
 
