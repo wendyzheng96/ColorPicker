@@ -71,11 +71,17 @@ class MainActivity : AppCompatActivity() {
         Palette.from(bitmap)
             .generate { palette ->
                 if (palette != null) {
+                    //最活跃的颜色
                     val vibrant = palette.vibrantSwatch
+                    //活跃的亮色
                     val lightVibrant = palette.lightVibrantSwatch
+                    //活跃的深色
                     val darkVibrant = palette.darkVibrantSwatch
+                    //最柔和的颜色
                     val muted = palette.mutedSwatch
+                    //柔和的亮色
                     val lightMuted = palette.lightMutedSwatch
+                    //柔和的深色
                     val darkMuted = palette.darkMutedSwatch
 
                     if (lightMuted != null) {
