@@ -2,9 +2,7 @@
 
 使用kotlin实现图片颜色的获取
 
-### 效果图
-
-[](https://github.com/wendyzheng96/ColorPicker/blob/master/screenshot/SVID_20190411_163454_1.gif)
+![效果图](https://github.com/wendyzheng96/ColorPicker/blob/master/screenshot/SVID_20190411_163454_1.gif?raw=true)
 
 ### 实现
 
