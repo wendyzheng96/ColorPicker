@@ -1,6 +1,6 @@
 # ColorPicker
 
-使用kotlin实现图片颜色的获取
+通过 Palette 实现图片主要颜色的自动提取
 
 ### 效果图
 
